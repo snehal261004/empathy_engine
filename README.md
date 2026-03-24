@@ -204,4 +204,4 @@ empathy-engine/
 ---
 
 ## 👨‍💻 Author
-Student Project – Empathy Engine
+Snehal chowdary – Empathy Engine
